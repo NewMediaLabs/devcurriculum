@@ -1,0 +1,386 @@
+{
+  "title": "Development  Curriculum",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "1": {
+      "title": "Junior",
+      "id": 2,
+      "ideas": {
+        "1": {
+          "title": "Modules",
+          "id": 3,
+          "ideas": {
+            "1": {
+              "title": ".Net",
+              "id": 4,
+              "ideas": {
+                "7": {
+                  "title": "Learning Units",
+                  "id": 45,
+                  "ideas": {
+                    "1": {
+                      "title": "C#",
+                      "id": 16,
+                      "ideas": {},
+                      "attr": {
+                        "attachment": {
+                          "contentType": "text/html",
+                          "content": "<div>Visual Studio&nbsp;</div><div><ul><li>Solutions,&nbsp;</li><li>Projects,&nbsp;</li><li>Project types,&nbsp;</li><li>Git integration<br></li><li><br></li></ul></div>Language basics and syntax<div><ul><li>Namespaces</li><li>Interfaces</li><li>Classes</li><li>Structs</li><li>Enums</li><li>Constructors</li><li>Finalizers</li><li>Access Modifiers</li><ul><li>public&nbsp;</li><li>private</li><li>protected</li><li>internal</li><li>protected internal</li></ul><li>Inheritance and Interface implementation</li><ul><li>Class inheritance</li><li>Interface implementation</li><li>virtual, abstract and override</li></ul></ul><div>Operators</div><div><ul><li>Logical</li><li>Assignment</li><li>Bitwise</li></ul></div><div>Control flow</div><div><ul><li>if</li><li>case&nbsp;</li><li>while</li><li>for</li><li>foreach</li></ul></div></div><div><div>Exception handling</div><div>Object lifetime</div><div><ul><li>IDisposable<br></li><li>using</li></ul><div>Coding Standards</div></div></div>"
+                        },
+                        "style": {}
+                      }
+                    },
+                    "2": {
+                      "title": "Threading (Async/Await)",
+                      "id": 17,
+                      "attr": {
+                        "attachment": {
+                          "contentType": "text/html",
+                          "content": "Threading basics<div><ul><li>ThreadPool</li><li>Task</li><li>Deadlocks</li><li>Race condition</li></ul><div>Synchronization</div></div><div><ul><li>Monitor</li><li>lock</li><li>WaitHandle</li><ul><li>AutoResetEvent</li><li>ManualResetEvent</li></ul><li>ReaderWriterLock</li><li>Semaphore</li><li>Mutex</li></ul><div>System.Collections.Concurrency</div><div><ul><li>ConcurrentBag</li><li>ConcurrentQueue</li><li>ConcurrentStack</li><li>ConcurrentDictionary</li></ul></div>Async/Await<br><div></div></div><div>ThreadContext</div>"
+                        },
+                        "style": {}
+                      }
+                    },
+                    "3": {
+                      "title": "LinqToObject",
+                      "id": 18,
+                      "attr": {
+                        "attachment": {
+                          "contentType": "text/html",
+                          "content": "<div>Basics</div><div><ul><li>Delayed execution</li><li>Closure</li></ul></div>Basic Operators<div><ul><li>Select</li><li>Where</li><li>First</li><li>Last</li><li>Skip</li><li>Count</li><li>Aggregate</li><li>OrderBy/ThenBy</li></ul><div>foreach vs Linq</div></div><div>LINQ syntax vs method operators</div>"
+                        },
+                        "style": {}
+                      }
+                    },
+                    "4": {
+                      "title": "Entity Framework",
+                      "id": 19,
+                      "attr": {
+                        "attachment": {
+                          "contentType": "text/html",
+                          "content": "<div>Code-First vs Database-First</div><div>DataContext<br></div>Entities<div>ChangeTracking</div><div>Tansactions/UnitOfWork/Repository</div>"
+                        },
+                        "style": {}
+                      }
+                    },
+                    "5": {
+                      "title": "Unity",
+                      "id": 20,
+                      "attr": {
+                        "attachment": {
+                          "contentType": "text/html",
+                          "content": "Dependency Injection<div>XML vs Code config</div><div>Injection patterns</div><div><ul><li>Service locator (MVC DependencyResolver)</li><li>Constructor injection</li><li>Property Injection</li></ul>Advanced object resolution</div><div><ul><li>Abstracting to factories</li><li>Config value injection</li><li>Named resolution</li></ul></div>"
+                        },
+                        "style": {}
+                      }
+                    },
+                    "6": {
+                      "title": "Logging",
+                      "id": 41,
+                      "attr": {
+                        "attachment": {
+                          "contentType": "text/html",
+                          "content": "Log4Net<div>ELMAH</div><div>Event Log</div>"
+                        },
+                        "style": {}
+                      }
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "position": [
+                  84,
+                  -199.5,
+                  1
+                ],
+                "style": {}
+              }
+            },
+            "2": {
+              "title": "Xamarin",
+              "id": 5,
+              "ideas": {
+                "5": {
+                  "title": "Learning Units",
+                  "id": 46,
+                  "ideas": {
+                    "1": {
+                      "title": "Android",
+                      "id": 24,
+                      "ideas": {},
+                      "attr": {
+                        "style": {}
+                      }
+                    },
+                    "2": {
+                      "title": "iOS",
+                      "id": 26,
+                      "attr": {
+                        "style": {}
+                      }
+                    },
+                    "3": {
+                      "title": "Xamarin Forms",
+                      "id": 27,
+                      "attr": {
+                        "style": {}
+                      }
+                    },
+                    "4": {
+                      "title": "PhoneGap/Ionic",
+                      "id": 28,
+                      "attr": {
+                        "style": {}
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "3": {
+              "title": "Relational Data",
+              "id": 6,
+              "attr": {
+                "style": {}
+              },
+              "ideas": {
+                "4": {
+                  "title": "Learning Units",
+                  "id": 47,
+                  "ideas": {
+                    "1": {
+                      "title": "TSQL",
+                      "id": 29,
+                      "attr": {
+                        "style": {}
+                      }
+                    },
+                    "2": {
+                      "title": "SQL Server Databases",
+                      "id": 30,
+                      "attr": {
+                        "attachment": {
+                          "contentType": "text/html",
+                          "content": "SQL Server<div><ul><li>Instances</li><li>Databases</li><li>Security</li><ul><li>Logins</li><li>Users</li><li>Roles</li></ul><li>Tables</li><ul><li>Datatypes</li><li>Keys</li><li>Indexes</li></ul><li>Views</li><li>Stored Procedures</li><li>Triggers</li><li>Custom types</li><li>Functions</li><li>Backup and restore</li></ul></div>"
+                        },
+                        "style": {}
+                      }
+                    },
+                    "3": {
+                      "title": "SQL Server Reporting Services",
+                      "id": 31,
+                      "attr": {
+                        "style": {}
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "4": {
+              "title": "JavaScript",
+              "id": 8,
+              "attr": {
+                "style": {}
+              },
+              "ideas": {
+                "4": {
+                  "title": "Learning Units",
+                  "id": 49,
+                  "ideas": {
+                    "1": {
+                      "title": "Language",
+                      "id": 42,
+                      "attr": {
+                        "attachment": {
+                          "contentType": "text/html",
+                          "content": "Language basics and syntax<div><ul><li>Objects</li><li>Datatypes</li><li>Functions</li><ul><li>Closures</li><li>Immediately Invoked Function Expressions</li></ul><li>Prototypical Inheritance&nbsp;</li><li>Scoping/Namespacing/Modules</li></ul><div>Operators</div></div><div><ul><li>Logical</li><li>Assignment</li></ul></div><div><div>Control flow</div><div><ul><li>if</li><li>switch&nbsp;</li><li>while &amp; do...while<br></li><li>for</li></ul></div></div><div><div>Exception handling</div><div>Object lifetime</div><div><div>Coding standards</div></div></div>"
+                        },
+                        "style": {}
+                      }
+                    },
+                    "2": {
+                      "title": "Node",
+                      "id": 43,
+                      "attr": {
+                        "attachment": {
+                          "contentType": "text/html",
+                          "content": "Node<div>NPM</div>"
+                        },
+                        "style": {}
+                      }
+                    },
+                    "3": {
+                      "title": "Libraries",
+                      "id": 44,
+                      "attr": {
+                        "attachment": {
+                          "contentType": "text/html",
+                          "content": "JQuery<div>Underscore</div>"
+                        },
+                        "style": {}
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "5": {
+              "title": "Web Development",
+              "id": 9,
+              "ideas": {
+                "3": {
+                  "title": "Learning Units",
+                  "id": 50,
+                  "ideas": {
+                    "1": {
+                      "title": "ASP.Net MVC",
+                      "id": 23,
+                      "attr": {
+                        "attachment": {
+                          "contentType": "text/html",
+                          "content": "Architecture<div>Models, Controllers &amp; Views</div><div>Razor</div><div>Routes</div><div>Filters</div><div>Actions</div><div><ul><li>ActionResult</li><li>PartialActionResult</li><li>JSONResult</li></ul><div><br></div></div>"
+                        },
+                        "style": {}
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "6": {
+              "title": "DevOps",
+              "id": 10,
+              "ideas": {
+                "1": {
+                  "title": "Learning Units",
+                  "id": 51
+                }
+              }
+            },
+            "7": {
+              "title": "Unit and Integration Testing",
+              "id": 13,
+              "attr": {
+                "style": {}
+              },
+              "ideas": {
+                "1": {
+                  "title": "Learning Units",
+                  "id": 52,
+                  "ideas": {
+                    "1": {
+                      "title": "Test Driven Development",
+                      "id": 58,
+                      "attr": {
+                        "attachment": {
+                          "contentType": "text/html",
+                          "content": "<div>Best practice and standards</div>"
+                        },
+                        "style": {}
+                      }
+                    },
+                    "2": {
+                      "title": ".Net",
+                      "id": 60,
+                      "attr": {
+                        "attachment": {
+                          "contentType": "text/html",
+                          "content": "<div>Best practice and standards</div><div><div>NUnit</div><div>MS Unit Testing</div></div>"
+                        },
+                        "style": {}
+                      }
+                    },
+                    "3": {
+                      "title": "Javascript",
+                      "id": 61,
+                      "attr": {
+                        "attachment": {
+                          "contentType": "text/html",
+                          "content": "<div>Qunit</div><div>Jasmine</div>"
+                        },
+                        "style": {}
+                      }
+                    },
+                    "4": {
+                      "title": "Integration Testing",
+                      "id": 62,
+                      "attr": {
+                        "attachment": {
+                          "contentType": "text/html",
+                          "content": "<div>Selenium</div><div>Renorex</div>"
+                        },
+                        "style": {}
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "8": {
+              "title": "SDLC",
+              "id": 14,
+              "attr": {
+                "style": {}
+              },
+              "ideas": {
+                "1": {
+                  "title": "Learning Units",
+                  "id": 53,
+                  "ideas": {
+                    "1": {
+                      "title": "Agile",
+                      "id": 54
+                    },
+                    "2": {
+                      "title": "Scrum",
+                      "id": 55,
+                      "ideas": {},
+                      "attr": {
+                        "attachment": {
+                          "contentType": "text/html",
+                          "content": "Stories<br>Planning<br>Backlogs<br>Sprints<br>Pointing/Estimation<br>Grooming<br>Retrospective<br>Burndown<br>Testing"
+                        },
+                        "style": {}
+                      }
+                    },
+                    "3": {
+                      "title": "Kanban",
+                      "id": 56
+                    }
+                  }
+                }
+              }
+            },
+            "3.5": {
+              "title": "NoSQL",
+              "id": 38,
+              "ideas": {
+                "2": {
+                  "title": "Learning Units",
+                  "id": 48,
+                  "ideas": {
+                    "1": {
+                      "title": "Azure Storage",
+                      "id": 39,
+                      "attr": {
+                        "attachment": {
+                          "contentType": "text/html",
+                          "content": "Blobs<div>Tables</div><div>Queues</div><div>DocumentDB</div>"
+                        },
+                        "style": {}
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "links": []
+}
