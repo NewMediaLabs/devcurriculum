@@ -354,6 +354,16 @@
                 }
               }
             },
+            "9": {
+              "title": "Design",
+              "id": 63,
+              "ideas": {
+                "1": {
+                  "title": "Learning Units",
+                  "id": 64
+                }
+              }
+            },
             "3.5": {
               "title": "NoSQL",
               "id": 38,
@@ -376,7 +386,33 @@
                   }
                 }
               }
+            },
+            "8.5": {
+              "title": "Front-end",
+              "id": 65,
+              "ideas": {
+                "1": {
+                  "title": "Learning Units",
+                  "id": 66,
+                  "ideas": {
+                    "1": {
+                      "title": "HTML",
+                      "id": 67
+                    },
+                    "2": {
+                      "title": "CSS",
+                      "id": 68
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "style": {}
+              }
             }
+          },
+          "attr": {
+            "style": {}
           }
         }
       }
